@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" hash="2255236399">
-    <data-source source="LOCAL" name="Rails RubyOnRailsTutorial: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="2a562ca0-17cf-429e-a69e-2e92341faf6e">
+    <data-source source="LOCAL" name="Rails RubyOnRailsTutorial: development" uuid="2a562ca0-17cf-429e-a69e-2e92341faf6e">
+      <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\aemaeth\RubymineProjects\RubyOnRailsTutorial\db\development.sqlite3</jdbc-url>
       <libraries>
